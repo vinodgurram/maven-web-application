@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>admin</name>
-	      <url>http://3.19.218.192:8081/repository/maven-releases/</url>
+	      <name>Mithun Technologies</name>
+	      <url>http://3.19.218.192:8081/repository/sampleapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-              <name>admin</name>		    
-	      <url>http://3.19.218.192:8081/repository/maven-snapshots/</url>
+              <name>Mithun Technologies</name>		    
+	      <url>http://3.19.218.192:8081/repository/sampleapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
